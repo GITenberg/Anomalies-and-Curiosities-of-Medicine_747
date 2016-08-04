@@ -1,0 +1,41 @@
+_repo: Anomalies-and-Curiosities-of-Medicine_747
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Pyle, Walter L. (Walter Lytle)
+    alias: Pyle, Walter Lytle
+    birthdate: 1871
+    deathdate: 1921
+    gutenberg_agent_id: '383'
+    url: http://www.gutenberg.org/2009/agents/383
+  - agent_name: Gould, George M. (George Milbrey)
+    alias: Gould, George Milbry
+    birthdate: 1848
+    deathdate: 1922
+    gutenberg_agent_id: '382'
+    url: http://www.gutenberg.org/2009/agents/382
+    wikipedia: http://en.wikipedia.org/wiki/George_M._Gould
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- Anecdotes'
+- !lcc 'R'
+- !lcsh 'Abnormalities, Human'
+- GITenberg
+tableOfContents: Genetic anomalies -- Prenatal anomalies -- Obstetric anomalies --
+  Prolificity -- Major terata -- Minor terata -- Anomalies of stature, size, and development
+  -- Longevity -- Physiologic and functional anomalies -- Surgical anomalies of the
+  head and neck -- Surgical anomalies of the extremities -- Surgical anomalies of
+  the thorax and abdomen -- Surgical anomalies of the genitourinary system -- Miscellaneous
+  surgical anomalies -- Anomalous types and instances of disease -- Anomalous skin-diseases
+  -- Anomalous nervous and mental diseases -- Historic epidemics.
+title: Anomalies and Curiosities of Medicine
+url: http://www.gutenberg.org/ebooks/747
