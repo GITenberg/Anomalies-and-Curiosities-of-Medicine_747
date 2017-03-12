@@ -1,5 +1,8 @@
 _repo: Anomalies-and-Curiosities-of-Medicine_747
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Pyle, Walter L. (Walter Lytle)
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/382
     wikipedia: http://en.wikipedia.org/wiki/George_M._Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/747#Anomalies-and-Curiosities-of-Medicine
 gutenberg_bookshelf: Medicine
 gutenberg_issued: '1996-12-01'
 gutenberg_type: Text
